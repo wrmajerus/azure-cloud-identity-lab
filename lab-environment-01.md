@@ -47,4 +47,8 @@ An individual Azure service or component, such as a virtual machine, storage acc
 -- Tags
 
 ## Key Takeaways
-1. Azure resources are organized 
+1. Azure resources are organized hierarchically rather than existing independently.
+2. Resource groups provide an important organizational and management boundary.
+3. Azure permissions can be applied at different scopes.
+4. Governance features such as RBAC, Policy, Locks, and Tags will become important as the environment grows.
+5. The resource group will serve as the foundation for the Pinecone Financial Services lab environment.
