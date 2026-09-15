@@ -1,0 +1,50 @@
+# Lab 1 - Azure Environment Setup
+
+## Objective
+
+Create the foundational Azure environment for the Pinecone Financial Servicescloud lab and become familiar with the Azure resource hierarchy and management interface.
+
+## Environtment
+
+Azure subscription: Personal lab subscription
+Resource group: rg-pincecone-lab
+Region - West US 2
+Purpose: Personal Azure administration and cloud engineering practice
+
+## Azure Resource Hierarchy
+Azure resources are organized into several levels:
+
+Management Group - Subscription - Resource Group - Resource
+
+### Management Group 
+
+Used to organize multiple Azure subscriptions and apply governance across them
+
+### Subscription
+
+Provides a boundary for billing, access control, quotas, and resource organization
+
+### Resource Group
+
+A logical container for related Azure resources. Resources in a resource group can be managed together.
+
+
+### Resource
+
+An individual Azure service or component, such as a virtual machine, storage account, virtual network, or database.
+
+## What I did
+
+- Created/used a personal Azure subscription for the lab.
+- Created the rg-pinecone-lab resource group
+- Selected an azure region for the lab 
+- Inspected the resource group's management interface
+- Reviewed areas including: 
+-- Access Control (IAM)
+-- Deployments
+-- Policies
+-- Locks
+-- Tags
+
+## Key Takeaways
+1. Azure resources are organized 
