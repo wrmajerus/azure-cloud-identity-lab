@@ -8,7 +8,7 @@ The environment simulates a small enterprise organization called Pinecone Financ
 
 ## Current Environment
 
-- Mmicrosoft azure
+- Microsoft azure
 - Microsoft Entra ID
 - PowerShell
 
